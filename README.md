@@ -1,7 +1,7 @@
 # Portfolio-MS-Excel
-MS Excel For Data Analysis
+## MS Excel For Data Analysis
 
-## Sumif,Data Validation and Vlookup Applications		
+### Sumif,Data Validation and Vlookup Applications		
 
 Tasks Completed:
 ### sum of sales of country				eg:	(India)	
