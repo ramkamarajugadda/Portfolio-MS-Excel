@@ -3,7 +3,7 @@
 
 ### Sumif,Data Validation and Vlookup Applications		
 
-Tasks Completed:
+## Tasks Completed:
 ### sum of sales of country				eg:	(India)	
 ### sum of sales of country in particular year						eg: India 2019
 ### Made a dropdown, whichever country I select, the answer will be the sales of that country				India 2019		
