@@ -1,28 +1,25 @@
 # Portfolio-MS-Excel
 # MS Excel For Data Analysis
+Dashboard-Data-Analysis
+A Excel project, data-set for Swiggy Order analysis across India in 2021 has got from Internet cleaned the data-set and made dashboard for all the analysis.
 
-## Sumif,Data Validation and Vlookup Applications		
+This Project analyse the Total revenue in 2021 
 
-###  Tasks Completed:
-### sum of sales of country				eg:	(India)	
-### sum of sales of country in particular year						eg: India 2019
-### Made a dropdown, whichever country I select, the answer will be the sales of that country				India 2019		
-### There is another list which contains the countries along with capitals, I   bring it to this sheet						
-						
-![image](https://github.com/ramkamarajugadda/Portfolio-MS-Excel/assets/154403806/e8550c92-f151-42dc-8bb3-3804cbd4f748)
+Goals
 
-## Countif() and Countifs()
+Data Manipulation:
 
-![image](https://github.com/ramkamarajugadda/Portfolio-MS-Excel/assets/154403806/090d6aa7-497f-4e6d-b51d-f0021c66881c)
+1. Find the Unique Item name and Count Unique Item name
+2. Find the unique Cities by dropdown with the help of data validation
+3. Find the Dayofweek
+4. Total Revnue wrt Cities
+5. Visuals charts wrt task 4
+6. Visual charts wrt total revenue wrt dayofweek
+7. Visuals chart wrt total revenuw wrt order date
+   ![image](https://github.com/ramkamarajugadda/Portfolio-MSExcel/assets/154403806/0243177b-7552-491e-b2c7-be6318cc4808)
 
 
-![image](https://github.com/ramkamarajugadda/Portfolio-MS-Excel/assets/154403806/4fb60dcb-9857-49ff-8b31-2e4eb8febc45)
 
-## Conditional Formatting:
-
-I  want to apply color to the duplicate values to the sales column values
-
-![image](https://github.com/ramkamarajugadda/Portfolio-MS-Excel/assets/154403806/69765c7d-3e1a-40dc-8cca-a8a90e948d48)
 
 
 
