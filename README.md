@@ -47,6 +47,8 @@ This Project analyse the various combination as stated below
 
 ![image](https://github.com/ramkamarajugadda/Portfolio-MSExcel/assets/154403806/badd3415-2fb5-43fa-9edb-fd0611cf32b3)
 
+![image](https://github.com/ramkamarajugadda/Portfolio-MSExcel/assets/154403806/80bc6b84-cad8-44a8-a33f-dbdf683b6665)
+
 
 
 
